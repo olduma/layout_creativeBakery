@@ -57,6 +57,7 @@ h1 {
 }
 
 .header__nav-link {
+  color: #1c1a26;
   text-decoration: none;
   transition: color .3s;
 }
